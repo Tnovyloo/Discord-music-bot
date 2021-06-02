@@ -44,4 +44,4 @@ async def play(ctx):
     else:
         await ctx.send(str(ctx.author.name) + "You are not in a channel.")
 
-    # await ctx.message.delete()
+    # await ctx.message.delete() ##you can use it if you want to delete "(prefix)play" message on channel
