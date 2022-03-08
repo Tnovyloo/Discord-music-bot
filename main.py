@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-from random import randint
 import random
 import asyncio
 from random import choice
